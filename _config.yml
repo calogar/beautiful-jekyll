@@ -46,11 +46,11 @@ navbar-col: '#523634' #chocolate
 navbar-text-col: '#ddc5a2' #frosting
 navbar-children-col: '#523634' #chocolate
 page-col: "#FFFFFF"
-link-col: '#ddc5a2' #frosting
-hover-col: '#301b28' # cocoa
+link-col: '#301b28' # cocoa
+hover-col: '#523634' #chocolate
 footer-col: '#523634'  # chocolate
 footer-text-col: '#ddc5a2' #frosting
-footer-link-col: '#301b28' #frosting
+footer-link-col: '#301b28' # cocoa
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -105,7 +105,7 @@ url-pretty: "calogar.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-118143932-1"
 
 # Google Tag Manager ID
 #gtm: ""

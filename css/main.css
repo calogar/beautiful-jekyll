@@ -772,3 +772,9 @@ td.gutter {
   font-style: italic;
   font-size: 16px;
 }
+
+
+/* MY CUSTOM CSS */
+nav a:hover {
+    color: {{ site.navbar-text-col }} !important;
+}
